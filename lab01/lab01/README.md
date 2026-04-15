@@ -14,6 +14,7 @@
 
 **Результат:** 
 
+<img width="397" height="262" alt="2026-04-15_14-03-11" src="https://github.com/user-attachments/assets/90b988ee-13db-40f8-9813-65360e5c7332" />
 
 
 
@@ -33,6 +34,7 @@
 
 **Результат:**
 
+<img width="339" height="92" alt="2026-04-15_14-05-08" src="https://github.com/user-attachments/assets/8c46f83d-b25a-449f-9569-8491164b16ee" />
 
  
 
@@ -52,9 +54,9 @@
 
 **Результат:**
 
+<img width="327" height="86" alt="2026-04-15_14-05-43" src="https://github.com/user-attachments/assets/cb863e35-095b-404d-8856-c159560f148b" />
 
 
- 
 
 ## **Задание 4: 03_favorite_movies.py** 
 
@@ -68,8 +70,7 @@
 
 **Результат:**
 
-
- 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d1a6520-fa96-40ef-85af-0fa1eb9367fa" />
 
  
 
@@ -89,8 +90,8 @@
 
 **Результат:**
 
+<img width="336" height="81" alt="2026-04-15_14-06-47" src="https://github.com/user-attachments/assets/1c2e6238-402b-4744-bed9-060d8908f418" />
 
- 
 
  
 
@@ -110,6 +111,7 @@
 
 **Результат:**
 
+<img width="673" height="118" alt="2026-04-15_14-07-32" src="https://github.com/user-attachments/assets/c7bc24a1-ec3b-4f2e-b950-53afc1344d1a" />
 
 
  
@@ -128,6 +130,7 @@
 
 **Результат:** 
 
+<img width="324" height="82" alt="2026-04-15_14-08-00" src="https://github.com/user-attachments/assets/4768b41d-25e7-4a2a-bdb7-04cf1d9649f7" />
 
 
  
@@ -146,6 +149,7 @@
 
 **Результат:**
 
+<img width="314" height="42" alt="2026-04-15_14-08-29" src="https://github.com/user-attachments/assets/efd96861-a5a5-435f-860b-a5fdc0e12713" />
 
 
  
@@ -164,6 +168,7 @@
 
 **Результат:** 
 
+<img width="828" height="98" alt="2026-04-15_14-08-59" src="https://github.com/user-attachments/assets/b7fd1ade-de0c-43cf-928e-d330de117424" />
 
 
  
@@ -186,6 +191,7 @@
 
 **Результат:** 
 
+<img width="358" height="414" alt="2026-04-15_14-09-39" src="https://github.com/user-attachments/assets/8d3e0f47-30ed-4d98-a427-931aa55e7aa2" />
 
 
  
@@ -206,6 +212,7 @@
 
 **Результат:**
 
+<img width="352" height="108" alt="2026-04-15_14-10-08" src="https://github.com/user-attachments/assets/da9d8df4-1c43-4545-afa7-4047af7b75b8" />
 
 
  
