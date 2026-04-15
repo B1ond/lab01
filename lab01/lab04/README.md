@@ -14,6 +14,7 @@
 
 **Результат:** 
 
+<img width="156" height="63" alt="2026-04-15_14-29-35" src="https://github.com/user-attachments/assets/9d97f094-869e-42f1-9946-2b0266e86104" />
 
 
 ## **Задание 2**
@@ -28,6 +29,7 @@
 
 **Результат:** 
 
+<img width="347" height="74" alt="2026-04-15_14-30-16" src="https://github.com/user-attachments/assets/6b8baec6-41a5-434b-a5a6-c9cfe6c7501c" />
 
 
 ## **Задание 3**
@@ -40,6 +42,7 @@
 
 **Результат:** 
 
+<img width="341" height="127" alt="2026-04-15_14-30-45" src="https://github.com/user-attachments/assets/86108932-0ce4-4d80-966b-d0a9bdda4aeb" />
 
 
 ## **Используемые материалы**
