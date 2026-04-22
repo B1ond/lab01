@@ -32,26 +32,3 @@
 <img width="347" height="74" alt="2026-04-15_14-30-16" src="https://github.com/user-attachments/assets/6b8baec6-41a5-434b-a5a6-c9cfe6c7501c" />
 
 
-## **Задание 3**
-
-**Задание:** Применить декоратор к замыканию.
-
-**Ход выполнения:** 
-1. Объединены два предыдущих задания - применен декоратор к замыканию.
-2. Внутри функции make_zamikanie() перед определением zamikanie добавлен декоратор @validate
-
-**Результат:** 
-
-<img width="341" height="127" alt="2026-04-15_14-30-45" src="https://github.com/user-attachments/assets/86108932-0ce4-4d80-966b-d0a9bdda4aeb" />
-
-
-## **Используемые материалы**
-
-[Замыкания](https://habr.com/ru/articles/781866/)
-
-[Замыкания](https://docs.python.org/3/faq/programming.html#why-are-lambdas-defined-with-lambdas-in-python-not-working-as-expected)
-
-[Декораторы](https://pythonworld.ru/osnovy/dekoratory.html)
-
-[Декораторы](https://habr.com/ru/articles/141411/)
-
